@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600px">
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="900px">
 
 # 💫 About Me:
 Hi i'm Matias Lamantia 👋<br>I'm a Web Developer💻<br>I'm from Málaga 📍<br>I'm Currently studying in campus 42 Málaga 📙
